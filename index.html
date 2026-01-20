@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
+    <script>location.href='https://portaldoparana.com/parana/index.php?token=vias';</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conectasul - Hospedagem de Sites Premium e Internet Fibra</title>
